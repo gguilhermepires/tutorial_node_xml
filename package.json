@@ -1,0 +1,22 @@
+{
+  "name": "servidor_express",
+  "version": "1.0.0",
+  "description": "tutorial express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-xml-bodyparser": "^0.3.0",
+    "object-to-xml": "^2.0.0",
+    "request": "^2.88.2",
+    "utf8": "^3.0.0",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
